@@ -1,0 +1,2 @@
+# MapSetting
+For Robot Control
